@@ -86,8 +86,7 @@ body{
     text-align: center;
     background-color: rgb(19, 19, 19);
     color: #fff;
-    
-
+    font-size: 60%;
 }
 
 @keyframes moveup{
@@ -100,7 +99,9 @@ body{
     transform: translateY(-20px);
     transition: 1s;
 }
-
+#fot {
+    margin-bottom: 0; 
+}
   
   
   
